@@ -1,7 +1,6 @@
 ﻿# Deploys shorcut to the public desktop of all computers in a specified OU
 
 $SearchBase = Read-Host "OU distinguishedName"
-
 $SourceFile = Read-Host "Shortcut File Location"
 
 # Pull computer names
