@@ -1,5 +1,4 @@
-﻿# Script to create a new AD user with the following options
-#   1. Creates AD user and syncs to Office 365
+﻿#   1. Creates AD user and syncs to Office 365
 #   2. Creates Home folder
 #   3. Assigns Office 365 licensing
 
