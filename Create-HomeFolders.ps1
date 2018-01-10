@@ -11,7 +11,7 @@ Import-Module ActiveDirectory
 # Get Admin account credentials
 $AdminCreds = Get-Credential 
 
-# Initialize script variables (manually set variables on lines 8-11)
+# Initialize script variables (manually set variables on lines 15-18)
 $ADServer = 'CONTOSO-DC1' # Change to the name to your DC
 $HomeRoot = "\\CONTOSO-DC1\Home$" # Set this to the share path to your home share no trailing \
 $searchbase = "OU=Users,DC=CONTOSO,DC=com" # Set this to the distinguishedName of the users OU you want to modify
