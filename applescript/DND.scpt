@@ -7,7 +7,7 @@
 
 # Make sure to turn on Monitor under Action > Monitor in Do Not Disturb preferences
 
-# Add completed script path to Action > Execute Action in Do Not Disturb preferences
+# Fill out variables and add script path to Action > Execute Action in Do Not Disturb preferences
 # Ex: osascript /Users/username/scripts/DND.scpt
 
 # Set variables
