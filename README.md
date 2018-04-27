@@ -1,2 +1,2 @@
-# powershell-scripts
-A collecton of PowerShell scripts to automate the boring stuff.
+# scripts
+My script collection. Please feel free to take and reuse how you see fit.
